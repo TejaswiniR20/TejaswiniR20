@@ -27,13 +27,6 @@
 
 ---
 
-### 📂 Featured Projects
-🔹 Medical Imaging Quality Assurance System  
-🔹 Resume Screening AI  
-🔹 Data Analysis Projects  
-
----
-
 ### 🌐 Connect With Me
 LinkedIn: https://www.linkedin.com/in/tejaswini-r-264b58259
 
