@@ -1,33 +1,42 @@
-<h1 align="center">Hi 👋, I'm Tejaswini</h1>
-<h3 align="center">Aspiring Software Engineer | Python | Data Science | Machine Learning</h3>
+<h1 align="center">Hi 👋 I'm Tejaswini</h1>
+<h3 align="center">Aspiring Software Engineer | Python Developer | Data Science Enthusiast</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Computer Science Student at **Kalpataru Institute of Technology, Tiptur**
-- 💻 Interested in **Software Engineering, Data Science, and Machine Learning**
-- 📊 Skilled in **Python, Pandas, NumPy, Machine Learning**
-- 🚀 Currently building **AI and Data Science projects**
-- 🌱 Learning **Deep Learning and Model Deployment**
+🎓 Computer Science Student at **Kalpataru Institute of Technology, Tiptur**
+
+💡 Passionate about building real-world solutions using **Python and Machine Learning**
+
+📊 Interested in **Software Development, Data Science, and AI**
+
+🚀 Currently working on **Machine Learning and Data Analysis projects**
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+• Python  
+• Data Science  
+• Machine Learning  
+• Pandas  
+• NumPy  
+• Scikit-Learn  
+• Streamlit  
+• Git & GitHub  
 
 ---
 
-### 🔗 Connect With Me
+### 📂 Featured Projects
+🔹 Medical Imaging Quality Assurance System  
+🔹 Resume Screening AI  
+🔹 Data Analysis Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+---
+
+### 🌐 Connect With Me
+LinkedIn: https://www.linkedin.com/in/tejaswini-r-264b58259
+
+---
+
+⭐ Always learning new technologies and building useful projects.
